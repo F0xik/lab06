@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\информатика\\source\\repos\\lab06\\lab06\\lab06.csproj": {}
+    "C:\\Users\\tanas\\Desktop\\lab06\\lab06\\lab06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\информатика\\source\\repos\\lab06\\lab06\\lab06.csproj": {
+    "C:\\Users\\tanas\\Desktop\\lab06\\lab06\\lab06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\информатика\\source\\repos\\lab06\\lab06\\lab06.csproj",
+        "projectUniqueName": "C:\\Users\\tanas\\Desktop\\lab06\\lab06\\lab06.csproj",
         "projectName": "lab06",
-        "projectPath": "C:\\Users\\информатика\\source\\repos\\lab06\\lab06\\lab06.csproj",
-        "packagesPath": "C:\\Users\\информатика\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\информатика\\source\\repos\\lab06\\lab06\\obj\\",
+        "projectPath": "C:\\Users\\tanas\\Desktop\\lab06\\lab06\\lab06.csproj",
+        "packagesPath": "C:\\Users\\tanas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tanas\\Desktop\\lab06\\lab06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\информатика\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tanas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
